@@ -22,10 +22,14 @@
 
 - 部分学生别名提供
 
+### [blacksidd](https://github.com/blacksidd)
+
+- 仓库贡献
+
 ### [SchaleDB](https://lonqie.github.io/SchaleDB/)
 
-- 部分中文翻译
+- 部分中文翻译等
 
 ### [GameKee](https://ba.gamekee.com/)
 
-- 官推漫画等
+- 官推漫画，部分翻译等
